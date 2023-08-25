@@ -9,3 +9,14 @@ D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.Generate
 D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.CoreCompileInputs.cache
 D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.exe
 D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.pdb
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\bin\Debug\Testgroupex.exe.config
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\bin\Debug\Testgroupex.exe
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\bin\Debug\Testgroupex.pdb
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.Form1.resources
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.Properties.Resources.resources
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.exe
+C:\Users\Admin\Desktop\Testgroupex\Testgroupex\obj\Debug\Testgroupex.pdb

@@ -55,7 +55,7 @@ namespace Testgroupex
                 textBox3.Text = "";
                 textBox4.Text = "";
                 textBox1.Focus();
-                SortDataTableByWeddingDate();
+                //SortDataTableByWeddingDate();
 
             }
             else
@@ -125,7 +125,6 @@ namespace Testgroupex
             if (int.TryParse(userInputStr, out int userInput) && userInput >= 1 && userInput <= dataTable.Rows.Count)
             {
                 DataRow row = dataTable.Rows[userInput - 1];
-
                 int choice = -1;
                 while (choice != 5)
                 {
@@ -162,7 +161,7 @@ namespace Testgroupex
                             }
                             break;
                         case 5:
-                            SortDataTableByWeddingDate(); // Sort the table after completing updates
+                            //SortDataTableByWeddingDate(); // Sort the table after completing updates
                             break;
                         default:
                             MessageBox.Show("Invalid choice, please enter again!", "Thông báo");
@@ -170,17 +169,13 @@ namespace Testgroupex
                     }
                 }
 
-                SortDataTableByWeddingDate(); 
+                //SortDataTableByWeddingDate(); 
             }
             else if (!string.IsNullOrEmpty(userInputStr)) 
             {
                 MessageBox.Show("Invalid input. Please enter a valid row number.", "Thông báo");
             }
         }
-
-
-
-
     }
     class CustomDateComparer : IComparer<DataRow>
     {
@@ -204,8 +199,6 @@ namespace Testgroupex
             return date1.Day.CompareTo(date2.Day);
         }
     }
-
-
 
     static class InputDialog
     {
