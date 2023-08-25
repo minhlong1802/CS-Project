@@ -1,0 +1,11 @@
+D:\VSCODE_practise\Testgroupex\Testgroupex\bin\Debug\Testgroupex.exe.config
+D:\VSCODE_practise\Testgroupex\Testgroupex\bin\Debug\Testgroupex.exe
+D:\VSCODE_practise\Testgroupex\Testgroupex\bin\Debug\Testgroupex.pdb
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.AssemblyReference.cache
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.SuggestedBindingRedirects.cache
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.Form1.resources
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.Properties.Resources.resources
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.GenerateResource.cache
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.csproj.CoreCompileInputs.cache
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.exe
+D:\VSCODE_practise\Testgroupex\Testgroupex\obj\Debug\Testgroupex.pdb
